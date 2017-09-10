@@ -14,3 +14,5 @@ You can try the code by using the following Some test messages:
 1. curb crack between the fenwick library and the JC building.
 2. Steep stairs on the northern side of innovation hall.
 3. A maintenance site on sager ave between university dr and east st
+
+Technologies used in this code are: Bootstrap, MapBox, and TurfJS
